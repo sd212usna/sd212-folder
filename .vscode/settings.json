@@ -2,5 +2,9 @@
     "github.copilot.enable": {
         "*": false
     },
-    "git.enabled": false
+    "git.enabled": false,
+    "python.defaultInterpreterPath": "./.pixi/envs/default/bin/python",
+    "python.terminal.executeInFileDir": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "jupyter.notebookFileRoot": "${fileDirname}"
 }
