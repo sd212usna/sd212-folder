@@ -1,0 +1,10 @@
+python3 shakes.py 10
+python3 shakes.py 11
+python3 shakes.py 12
+python3 shakes.py 13
+python3 shakes.py 14
+python3 shakes.py 15
+python3 shakes.py 16
+python3 shakes.py 17
+python3 shakes.py 18
+python3 shakes.py 19
